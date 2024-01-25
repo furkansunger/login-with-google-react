@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"@octokit/auth": "^3.0.3",
+		"@react-oauth/google": "^0.12.1",
+		"@nextui-org/react": "^2.2.9",
+		"axios": "^1.6.6",
+		"react-router-dom": "^6.21.3"
+	}
+}

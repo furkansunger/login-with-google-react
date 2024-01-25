@@ -1,0 +1,25 @@
+# Ignore node_modules directory in all folders
+**/node_modules/
+
+# Ignore log files and database files in all folders
+**/*.log
+**/*.sqlite
+
+# Ignore environment-specific files in all folders
+**/.env
+
+# Ignore compiled files in all folders
+**/dist/
+**/build/
+
+# Ignore OS-specific files in all folders
+**/.DS_Store
+**/Thumbs.db
+
+# Ignore editor-specific files in all folders
+**/.vscode/
+**/.idea/
+
+# Ignore dependencies lock files, if using Yarn or npm, in all folders
+**/yarn.lock
+**/package-lock.json
